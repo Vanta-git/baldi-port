@@ -1,0 +1,13 @@
+{
+"companyName": "Basically Games",
+"productName": "BALDI",
+"dataUrl": "baldi.data.unityweb",
+"asmCodeUrl": "baldi.asm.code.unityweb",
+"asmMemoryUrl": "baldi.asm.memory.unityweb",
+"asmFrameworkUrl": "baldi.asm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
